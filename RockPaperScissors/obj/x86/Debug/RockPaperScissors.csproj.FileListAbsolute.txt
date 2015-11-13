@@ -1,0 +1,9 @@
+U:\C#\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+U:\C#\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+U:\C#\RockPaperScissors\RockPaperScissors\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\C#\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.Form1.resources
+U:\C#\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.Properties.Resources.resources
+U:\C#\RockPaperScissors\RockPaperScissors\obj\x86\Debug\GenerateResource.read.1.tlog
+U:\C#\RockPaperScissors\RockPaperScissors\obj\x86\Debug\GenerateResource.write.1.tlog
+U:\C#\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.exe
+U:\C#\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.pdb
